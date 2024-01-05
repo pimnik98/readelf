@@ -1,2 +1,10 @@
 # readelf
-Программа readelf предназначена для анализа заголовков ELF (Executable and Linkable Format) файлов для SayoriOS
+Программа readelf предназначена для анализа заголовков ELF (Executable and Linkable Format) файлов для SayoriOS.
+
+Простой экземпляр программы, для тестирование и примера написания программ для SayoriOS.
+
+Ссылка на SDK:
+https://github.com/pimnik98/SayoriSDK
+
+Перед сборкой необходимо скомпилировать сдк
+Путь к SayoriSDK - это единственное что нужно указать в Makefile, можете просто склонировать репозиторий рядом с папкой вашего проекта.
